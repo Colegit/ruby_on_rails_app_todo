@@ -1,5 +1,10 @@
 ### Todo App with Ruby on Rails as a backend API paired with a React.js frontend. Nothing more, nothing less. 
 
+
+
+
+
+
 ### Ruby on Rails
 
 cd into the backend folder and run `rails s` to start the backend server

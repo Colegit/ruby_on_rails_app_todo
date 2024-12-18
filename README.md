@@ -1,6 +1,4 @@
-### Todo App with Ruby on Rails as a backend API paired with a React.js frontend
-
-![todoApp](todoApp.PNG)
+### Todo App with Ruby on Rails as a backend API paired with a React.js frontend. Nothing more, nothing less. 
 
 ### Ruby on Rails
 
@@ -12,3 +10,7 @@ In a new terminal cd into the frontend folder and run`npm start` to start the fr
 
 ### Axios
 Download Axios for handling HTTP requests to the backend through npm in the frontend folder by running `npm install axios` 
+
+
+![todoApp](todoApp.PNG)
+

@@ -1,9 +1,9 @@
 ### Todo App with Ruby on Rails as a backend API paired with a React.js frontend. Nothing more, nothing less. 
 
-.
-.
-.
-.
+  
+  
+  
+  
 
 
 

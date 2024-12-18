@@ -1,0 +1,21 @@
+version: "3.9"
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    volumes:
+      - ./backend:/app
+    ports:
+      - "3000:3000"
+    environment:
+      SECRET_KEY_BASE: "5e1523402572a78ffae6b1fae9fbb85c51c6b05aad1f9bf5195245d43bf97a152d24cb3caecc391c31b4591a00bdbc0605842a1fdf13297655942d3b67a9024c"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    volumes:
+      - ./frontend:/app
+    ports:
+      - "3001:3001"

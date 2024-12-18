@@ -1,6 +1,6 @@
 ### Todo App with Ruby on Rails as a backend API paired with a React.js frontend
 
-![todoApp](assets/todoApp.png)
+![todoApp](todoApp.PNG)
 
 ### Ruby on Rails
 

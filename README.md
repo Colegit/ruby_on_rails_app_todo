@@ -2,8 +2,9 @@
 
 cd into the parent directory and run `docker-compose up --build`
 
-localhost:3000 backend
-localhost:3001 frontend
+-localhost:3000 backend
+
+-localhost:3001 frontend
 
 ## Local Dev Env
 
